@@ -5,27 +5,28 @@
 
 <h1 align="center" style="color:#8d6748;">StyleSurfer</h1>
 <p align="center" style="color:#b08968; font-size:1.2em;">
-  Affordable, eco-friendly, and flexible fashion rental platform built for a sustainable future.
+  Affordable, secure, and eco-friendly fashion rental platform for men and women.
 </p>
 
 ---
 
 ## 📝 Abstract
 
-StyleSurfer is an innovative, affordable, and eco-friendly fashion rental platform based in Rajkot. It empowers users to rent stylish, high-quality clothes for any duration, reducing fashion waste and making premium outfits accessible to all. Unique features like **Buy Back** (customize and return or purchase), **Reselling** (discounted pre-rented outfits), and a gamified **Spin-to-Win** discount system set StyleSurfer apart. The platform is built with Python and Django (backend), and HTML, CSS, Bootstrap, and JavaScript (frontend) for a seamless, responsive user experience.
+StyleSurfer is an advanced, eco-friendly fashion rental platform based in Rajkot, designed as my final year CE Diploma project by **Harshad Soyaliya**. The platform allows users to rent stylish, high-quality clothes for both men and women with flexible rental durations. StyleSurfer focuses on sustainability, accessibility, and a real e-commerce experience with robust security and verification.
 
 ---
 
 ## 🌟 Key Features
 
-- <b style="color:#8d6748;">Flexible Rentals:</b> Rent clothes for any number of days—no fixed durations.
-- <b style="color:#8d6748;">Buy Back Option:</b> Customize and rent outfits with the option to buy them later at a guaranteed price.
-- <b style="color:#8d6748;">Reselling:</b> Purchase pre-rented, discounted items, reducing waste and increasing affordability.
-- <b style="color:#8d6748;">Spin-to-Win:</b> Play to win coins and redeem them for vouchers or discounts.
-- <b style="color:#8d6748;">User Roles:</b> Dedicated dashboards for Customers, Sellers, Delivery Partners, and Admins.
-- <b style="color:#8d6748;">Inventory & Size Tracking:</b> Real-time size availability and smart inventory management.
-- <b style="color:#8d6748;">Secure Payments:</b> Integrated with payment gateways for smooth transactions.
-- <b style="color:#8d6748;">Responsive Design:</b> Fully functional on mobile, tablet, and desktop devices.
+- <b style="color:#8d6748;">Multi-Panel System:</b> Dedicated dashboards for Users, Sellers, Delivery Partners, and Admins.
+- <b style="color:#8d6748;">Full Authentication & Verification:</b> Email OTP, password reset, and multi-factor checks for all users, ensuring high security and trust[1][5][6].
+- <b style="color:#8d6748;">Men’s & Women’s Fashion:</b> Extensive catalog of trendy outfits for every occasion[2][4][7].
+- <b style="color:#8d6748;">Flexible Rentals:</b> Users choose any rental period, not limited to fixed durations.
+- <b style="color:#8d6748;">Buy Back & Reselling:</b> Unique buy-back feature for customized outfits and discounted reselling of pre-rented clothes.
+- <b style="color:#8d6748;">Spin-to-Win:</b> Gamified rewards for user engagement.
+- <b style="color:#8d6748;">Impressive UI/UX:</b> Modern, visually appealing, and responsive design for a premium experience.
+- <b style="color:#8d6748;">Enterprise-Grade Security:</b> Verification steps, secure payment integration, and fraud prevention for a real-world e-commerce feel[1][5][6][8].
+- <b style="color:#8d6748;">Role-Based Access:</b> Each panel (User, Seller, Delivery Partner, Admin) has custom features and controls.
 
 ---
 
@@ -38,34 +39,41 @@ StyleSurfer is an innovative, affordable, and eco-friendly fashion rental platfo
 <img src="https://img.shields.io/badge/Bootstrap-b08968?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-8d6748?style=flat-square&logo=javascript&logoColor=white"/>
 
+
+
 ---
 
-## 💡 What Makes StyleSurfer Unique?
+## 🛡️ Security & Verification
 
-- **Flexible Rental Days:** Users choose any rental duration—no more fixed 3, 5, or 7-day limits.
-- **Smart Reselling:** Sellers manually move old or less-rented clothes to resale, offering great deals while clearing inventory.
-- **Gamified Engagement:** Spin-to-Win rewards coins for discounts, making the experience interactive and fun.
-- **Personalized Buy Back:** Customers can customize outfits and later return or purchase them for a guaranteed price.
-- **Role-Based Dashboards:** Intuitive dashboards for customers, sellers, delivery partners, and admins—each with tailored features.
-- **Sustainable Circular Fashion:** Combines rental, resale, and buy-back to promote eco-friendly fashion practices.
+- **Email OTP Verification:** Every account and password reset uses secure email OTP.
+- **Forgot Password Facility:** Users can easily recover accounts with verified email.
+- **Multi-Factor Authentication:** Additional checks for sensitive actions, inspired by leading ID verification and KYC practices[1][5][6].
+- **Document Verification (optional):** For sellers/delivery partners, upload and verify IDs.
+- **Fraud Prevention:** Secure payment, anti-fraud checks, and data protection for a safe rental marketplace[1][5][8].
 
 ---
 
 ## 🏆 Placement Reference
 
-StyleSurfer demonstrates advanced backend development with Python & Django, dynamic page creation, and a strong focus on real-world problem-solving and user experience. The project highlights innovation in sustainable fashion tech and scalable web architecture—ideal for software engineering, product, or tech roles[2][3].
+StyleSurfer highlights expertise in:
+- Full-stack development (Python, Django, HTML, CSS, Bootstrap, JS)
+- Real-world authentication, verification, and security
+- Dynamic, role-based dashboards and e-commerce logic
+- Modern, responsive UI/UX design
+- Teamwork and innovation in a patent-pending, production-grade project
 
 ---
 
-## 👥 Team & Patent
+## 👤 Project Author
 
-- **Team:** Backend and dynamic page development by CE Diploma students at Marwadi University.
-- **Patent:** Confidential & Attorney-Client Privileged. Applicant: Marwadi University.
+**Harshad Soyaliya**  
+Final Year CE Diploma Project  
+Marwadi University, Rajkot
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20🌱%20by-StyleSurfer%20Team-b08968?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with%20🌱%20by-Harshad%20Soyaliya%20&%20Team-b08968?style=for-the-badge"/>
 </p>
 
-> For more details, contact Aayush Gupta (+91 92891 50390) or see the full invention disclosure form.
+> For more details, contact via university email or see the full patent disclosure (Confidential & Attorney-Client Privileged).
