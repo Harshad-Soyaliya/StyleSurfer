@@ -127,7 +127,7 @@ Inventors (as per official publication):
 
 **Harshad Soyaliya**
 currently in B.Tech Computer Engineering, 3rd Semester
-📧 [harshad.soyliya119466@marwadiuniversity.ac.in](mailto:soyaliyaharshad96@gmail.com)
+📧 [soyaliyaharshad96@gmail.com](mailto:soyaliyaharshad96@gmail.com)
 📍 Rajkot, Gujarat
 
 ---
