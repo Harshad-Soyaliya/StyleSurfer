@@ -88,18 +88,6 @@ Presented at Project Fair 2025 on 16 April 2025.
 
 ---
 
-## Technology Stack
-
-| Category | Technologies                          |
-| -------- | ------------------------------------- |
-| Backend  | Python, Django                        |
-| Frontend | HTML5, CSS3, Bootstrap, JavaScript    |
-| Database | SQLite3                               |
-| Security | Email OTP & role-based authentication |
-| Payment  | Online / COD (Gateway-ready)          |
-
----
-
 ## Architecture and Documentation
 
 * System Architecture
