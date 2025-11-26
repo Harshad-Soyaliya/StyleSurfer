@@ -99,9 +99,9 @@ All project documentation, system diagrams & flows are included in `documentatio
 
 | Contributor       | Contribution                                   |
 | ----------------- | ---------------------------------------------- |
-| Purav Chauhan     | Basic static HTML/CSS pages without validation |
-| Jay Kaneriya      | Minor alignment support                        |
-| Bhumika Kanzariya | Minor UI involvement                           |
+| Purav Chauhan     | Design fronted for customer side in project with client side validation |
+| Jay Kaneriya      | Minor alignment support and help in Documentation                        |
+| Bhumika Kanzariya | Minor UI involvement                          |
 
 > 🔥 **Core innovation & functional development executed solely by Harshad & Mansi**
 
