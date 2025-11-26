@@ -1,9 +1,4 @@
 
-<!-- Gradient Banner -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/StyleSurfer-Automated%20Fashion%20Rental%20Platform-gradient?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b1e&color=8d6748" />
-</p>
 
 <!-- Dark Mode SVG Banner -->
 
