@@ -86,9 +86,7 @@ All project documentation, system diagrams & flows are included in `documentatio
 
 ---
 
-## 👥 Contribution Breakdown (Transparent & Professional)
-
-> **Major system development, backend, frontend, database design, core functionality, authentication, UI integration & deployment was executed by:**
+## 👥 Contribution Breakdown
 
 | Contributor          | Responsibility                                                                                                                                                                                   |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
