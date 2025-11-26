@@ -94,11 +94,6 @@ All project documentation, system diagrams & flows are included in `documentatio
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Harshad Soyaliya** | Complete backend development (Django), DB architecture, authentication & security, dashboards, advanced features (Spin-to-Win, Buy-Back, Resell, Rental workflow), frontend design & integration |
 | **Mansi Kadvani**    | Frontend implementation, responsive UI/UX, seller & delivery partner modules, user flows & system integration testing                                                                            |
-
-> **Minor contributions:**
-
-| Contributor       | Contribution                                   |
-| ----------------- | ---------------------------------------------- |
 | Purav Chauhan     | Design fronted for customer side in project with client side validation |
 | Jay Kaneriya      | Minor alignment support and help in Documentation                        |
 | Bhumika Kanzariya | Minor UI involvement                          |
