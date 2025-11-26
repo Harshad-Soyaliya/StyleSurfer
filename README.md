@@ -31,11 +31,17 @@ Filed under **Marwadi University**
 ## 🏆 Awards & Recognition
 
 ### 🎓 Letter of Appreciation — Marwadi University
-Awarded for **Outstanding Achievement in Patent Publication**, beyond prescribed curriculum (Academic Year 2024-25).  
-Signed by **Prof. Mittal Joiser, Principal, Faculty of Diploma Studies**, dated **15 September 2025**.
+Received formal appreciation for **Outstanding Achievement in Patent Publication** for the academic year 2024–25.  
+Issued by **Prof. Mittal Joiser**, Principal, Faculty of Diploma Studies (FoDS), Marwadi University on **15 September 2025**.
 
-### 📌 Patent Successfully Published
-Recognized by **Marwadi University IPR Cell & Ennoble IP** confirming publication.
+### 🧾 Patent Publication — Indian Patent Office
+The project’s extended innovation has been successfully **published as an Indian Patent** under the title:  
+**“Automated Clothing Rental Kiosk” — Application No. 202521070250 A**  
+Published in the **Patent Office Journal (08 August 2025)** with official acknowledgement from the **Marwadi University IPR Cell** and **Ennoble IP**.
+
+### 🏅 Project Fair 2025 — Certificate of Participation
+Presented **StyleSurfer** at the **Project Fair 2025**, organized by the Faculty of Diploma Studies, Marwadi University on **16 April 2025**.  
+Certificate signed by **Prof. Smit Thacker** (HoD, CE-FoDS) and **Prof. Mittal Joiser** (Principal, FoDS).  
 
 ---
 
