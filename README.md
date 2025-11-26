@@ -1,13 +1,5 @@
 
 
-# StyleSurfer – Automated Fashion Rental Platform
-
-<!-- Clean Dark Minimal Header Banner -->
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=StyleSurfer&text2=Automated%20Fashion%20Rental%20Platform&width=1100&height=260" />
-</p>
-
 <h1 align="center">StyleSurfer – Automated Fashion Rental Platform</h1>
 
 <p align="center">
