@@ -122,18 +122,6 @@ Presented at Project Fair 2025 on 16 April 2025.
   <img src="https://img.shields.io/badge/Bhumika%20Kanzariya-UI%20Support-0a0a0a?style=for-the-badge" />
 </p>
 
-### Contribution Breakdown (Updated as requested)
-
-| Contributor          | Responsibility                                                                                                                                                                               |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Harshad Soyaliya** | Full-stack development including backend logic, Django models, dynamic pages, authentication, business workflows, UI integration, rental engine, resell, buy-back, and customization modules |
-| **Mansi Kadvani**    | Full-stack development including backend logic, Django views, dynamic pages, seller & delivery partner modules, responsive UI/UX, and joint execution of all dynamic functionality           |
-| Purav Chauhan        | Customer-side frontend design with validation                                                                                                                                                |
-| Jay Kaneriya         | UI alignment and documentation assistance                                                                                                                                                    |
-| Bhumika Kanzariya    | Minor UI involvement                                                                                                                                                                         |
-
-Harshad and Mansi both executed the same level of backend and dynamic functionality.
-
 ---
 
 ## Patent Publication and Ownership
